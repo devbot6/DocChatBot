@@ -1,4 +1,6 @@
-# Document Loading Chatbot
+# Document Q&A Chatbot
+
+![Alt text](https://github.com/devbot6/DocChatBot/blob/main/pics/Screenshot%202025-01-01%20043101.png)
 
 This is a chatbot application built using LangChain, Gradio, and HuggingFace embeddings that helps users ask questions related to the loaded document. The chatbot leverages a document-based retrieval system to provide relevant answers based on the content of a PDF book.
 
